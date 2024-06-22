@@ -1,5 +1,4 @@
 import { useState } from "react"
-import './App.css'
 import NewTask from "./NewTask"
 
 const URL = "https://665665e69f970b3b36c5413f.mockapi.io/tasks"
